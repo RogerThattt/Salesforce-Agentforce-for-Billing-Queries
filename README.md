@@ -1,6 +1,6 @@
 # Salesforce-Agentforce-for-Billing-Queries
 
-Great scenario — building an **Agent Force solution** for handling **billing queries** via **Salesforce Industries (Vlocity)** connected to **Aria Billing**. As a **Salesforce Architect**, your response must **balance user experience, platform scalability, integration complexity, and maintainability**.
+building an **Agent Force solution** for handling **billing queries** via **Salesforce Industries (Vlocity)** connected to **Aria Billing**. As a **Salesforce Architect**, your response must **balance user experience, platform scalability, integration complexity, and maintainability**.
 
 Here’s a **structured solution recommendation** approach with **multiple implementation paths**, **trade-offs**, and a **final recommendation** based on Salesforce best practices.
 
